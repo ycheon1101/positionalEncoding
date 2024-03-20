@@ -4,3 +4,10 @@ When reconstruct the image with pure mlp, the reconstructed image looks like blu
 
 So, I used Gaussian Fourier Transform(sinusoid) to do positional encoding.
 
+<img src="./images/cat.jpg"> This is the source image.
+
+<img src="images/positional_mlp_test_img1.jpg"> This is the reconstructed image. (I cropped image!!)
+
+
+
+
